@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo_lap {
+    height: 100px;
+    width: 100px;
+}
+.heading{
+    position: relative;
+}
+/* .header{
+    position: absolute;
+} */
+.container .row .banner  {
+    height: 70%;
+}
+.carousel-inner img {
+    height: 400px;
+}
+.content-main img:hover {
+    transition: all ease-in-out 0.5s;
+    transform: scale(1.5);
+    
+}
+/* @media screen and (min-width: 992px) {
+    .header{
+        position: absolute;
+    }
+} */
+
